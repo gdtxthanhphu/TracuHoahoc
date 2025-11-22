@@ -8,3 +8,5 @@ chempy
 mendeleev
 numpy
 pandas
+ipywidgets
+ipython_genutils
