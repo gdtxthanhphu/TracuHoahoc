@@ -1,0 +1,8 @@
+streamlit
+pubchempy
+requests
+stmol
+py3Dmol
+rdkit-pypi
+chempy
+mendeleev
