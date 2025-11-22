@@ -3,6 +3,8 @@ pubchempy
 requests
 stmol
 py3Dmol
-rdkit-pypi
+rdkit>=2023.9.5
 chempy
 mendeleev
+numpy
+pandas
